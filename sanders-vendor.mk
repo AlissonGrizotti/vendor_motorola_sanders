@@ -1406,7 +1406,6 @@ PRODUCT_PACKAGES += \
     embmslibrary \
     imscmlibrary \
     qcrilhook \
-    com.qualcomm.location \
     ims \
     imssettings \
     qcrilmsgtunnel \
